@@ -1,3 +1,0 @@
-This is my quantified self dashboard.
-
-See https://beepb00p.xyz/my-data.html#dashboard for more information.
